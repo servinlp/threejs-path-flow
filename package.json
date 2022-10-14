@@ -1,0 +1,15 @@
+{
+  "name": "threejs-path-flow",
+  "version": "1.0.0",
+  "repository": "https://github.com/servinlp/threejs-path-flow.git",
+  "license": "MIT",
+  "main": "index.html",
+  "scripts": {
+    "start": "vite serve --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "^3.1.8"
+  }
+}
